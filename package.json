@@ -1,0 +1,22 @@
+{
+  "name": "erockwell",
+  "version": "1.0.0",
+  "description": "Online Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WAG1995/ERockwell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WAG1995/ERockwell/issues"
+  },
+  "homepage": "https://github.com/WAG1995/ERockwell#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
